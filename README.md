@@ -3,7 +3,8 @@
 ## Usage
 
 ```
-git clone repo_name
+git clone https://github.com/Patel-Aman/chrome_extension
+cd chrome_extension
 ```
 
 1. Go to chrome extensions.
