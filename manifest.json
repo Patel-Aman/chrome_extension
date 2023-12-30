@@ -1,0 +1,11 @@
+{
+    "name": "Check stock price",
+    "version": "1.0.0",
+    "description": "latest stock price",
+    "manifest_version": 3,
+    "author": "Aman Patel",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Stock price"
+    }
+}
